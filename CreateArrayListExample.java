@@ -19,7 +19,7 @@ public class CreateArrayListExample {
         animals.add(2, "Elephant");
 
         System.out.println(animals);
-        // out put //
+        // output //
         /* [Lion, Tiger, Cat, Dog] [Lion, Tiger, Elephant, Cat, Dog] */
     }
 }
